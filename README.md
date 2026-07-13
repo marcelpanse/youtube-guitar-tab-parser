@@ -1,4 +1,4 @@
-# tab-parser
+# Youtube Guitar Tab Parser
 
 CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.
 
