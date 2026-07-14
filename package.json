@@ -19,7 +19,7 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.68.0",
+    "@anthropic-ai/sdk": "^0.111.0",
     "commander": "^14.0.0",
     "execa": "^9.6.0",
     "pdf-lib": "^1.17.1",
