@@ -23,7 +23,7 @@
     "commander": "^14.0.0",
     "execa": "^9.6.0",
     "pdf-lib": "^1.17.1",
-    "sharp": "^0.34.4"
+    "sharp": "^0.35.3"
   },
   "devDependencies": {
     "@types/node": "^24.7.0",
