@@ -9,6 +9,14 @@ vertically into a PDF. It works out of the box with no configuration — the PDF
 is written to `out/<video-title>.pdf`, with the video title as a heading on the
 first page and in the document metadata.
 
+## Example
+
+Generated from the YouTube lesson
+[Game of Thrones - Guitar Lesson + TAB](https://youtu.be/WgU5tDGC-Vc):
+
+- 🎬 Source video: <https://youtu.be/WgU5tDGC-Vc>
+- 📄 Output PDF: [examples/Game of Thrones.pdf](examples/Game%20of%20Thrones.pdf)
+
 ## Requirements
 
 - Node.js ≥ 20
